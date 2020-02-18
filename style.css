@@ -1,0 +1,236 @@
+body{
+    background-color: black;
+}
+
+/* mail */
+.img-mail {
+    width: 100px;
+    height: 100px;
+    border: solid 1px rgb(221, 77, 77);
+    background: url(img/mail.png) no-repeat center;
+    /* -moz-box-shadow: 3px 6px 5px rgb(139, 139, 139);
+    -webkit-box-shadow: 3px 6px 5px rgb(139, 139, 139);
+    box-shadow: 3px 6px 5px rgb(139, 139, 139); */
+    -moz-border-radius:100px;
+    -webkit-border-radius:100px;
+    border-radius:100px;
+}
+.img-mail:hover {
+    width: 100px;
+    height: 100px;
+    background: url(img/mail.png) no-repeat center;
+    -moz-box-shadow: 2px 4px 4px rgb(88, 87, 87);
+    -webkit-box-shadow: 2px 4px 4px rgb(88, 87, 87);
+    box-shadow: 2px 4px 4px rgb(88, 87, 87);
+    -moz-border-radius:100px;
+    -webkit-border-radius:100px;
+    border-radius:100px;
+
+}
+
+/* main */
+.img-main {
+    width: 150px;
+    height: 150px;
+    border: solid 1px rgb(221, 77, 77);
+    background: url(img/medicare.png) no-repeat center;
+    /* -moz-box-shadow: 3px 6px 5px rgb(139, 139, 139);
+    -webkit-box-shadow: 3px 6px 5px rgb(139, 139, 139);
+    box-shadow: 3px 6px 5px rgb(139, 139, 139); */
+    -moz-border-radius:150px;
+    -webkit-border-radius:150px;
+    border-radius:150px;
+}
+.img-main:hover {
+    width: 150px;
+    height: 150px;
+    background: url(img/medicare.png) no-repeat center;
+    -moz-box-shadow: 2px 4px 4px rgb(88, 87, 87);
+    -webkit-box-shadow: 2px 4px 4px rgb(88, 87, 87);
+    box-shadow: 2px 4px 4px rgb(88, 87, 87);
+    -moz-border-radius:150px;
+    -webkit-border-radius:150px;
+    border-radius:150px;
+
+}
+
+/* lucky */
+.img-lucky {
+    width: 100px;
+    height: 100px;
+    border: solid 1px rgb(221, 77, 77);
+    background: url(img/lucky.png) no-repeat center;
+    /* -moz-box-shadow: 3px 6px 5px rgb(139, 139, 139);
+    -webkit-box-shadow: 3px 6px 5px rgb(139, 139, 139);
+    box-shadow: 3px 6px 5px rgb(139, 139, 139); */
+    -moz-border-radius:100px;
+    -webkit-border-radius:100px;
+    border-radius:100px;
+}
+.img-lucky:hover {
+    width: 100px;
+    height: 100px;
+    background: url(img/lucky.png) no-repeat center;
+    -moz-box-shadow: 2px 4px 4px rgb(88, 87, 87);
+    -webkit-box-shadow: 2px 4px 4px rgb(88, 87, 87);
+    box-shadow: 2px 4px 4px rgb(88, 87, 87);
+    -moz-border-radius:100px;
+    -webkit-border-radius:100px;
+    border-radius:100px;
+
+}
+
+/* intranet */
+.img-intranet {
+    width: 100px;
+    height: 100px;
+    border: solid 1px rgb(221, 77, 77);
+    background: url(img/intranet.png) no-repeat center;
+    /* -moz-box-shadow: 3px 6px 5px rgb(139, 139, 139);
+    -webkit-box-shadow: 3px 6px 5px rgb(139, 139, 139);
+    box-shadow: 3px 6px 5px rgb(139, 139, 139); */
+    -moz-border-radius:100px;
+    -webkit-border-radius:100px;
+    border-radius:100px;
+}
+.img-intranet:hover {
+    width: 100px;
+    height: 100px;
+    background: url(img/intranet.png) no-repeat center;
+    -moz-box-shadow: 2px 4px 4px rgb(88, 87, 87);
+    -webkit-box-shadow: 2px 4px 4px rgb(88, 87, 87);
+    box-shadow: 2px 4px 4px rgb(88, 87, 87);
+    -moz-border-radius:100px;
+    -webkit-border-radius:100px;
+    border-radius:100px;
+
+}
+
+/* fm */
+.img-fm {
+    width: 100px;
+    height: 100px;
+    border: solid 1px rgb(221, 77, 77);
+    background: url(img/fm.png) no-repeat center;
+    /* -moz-box-shadow: 3px 6px 5px rgb(139, 139, 139);
+    -webkit-box-shadow: 3px 6px 5px rgb(139, 139, 139);
+    box-shadow: 3px 6px 5px rgb(139, 139, 139); */
+    -moz-border-radius:100px;
+    -webkit-border-radius:100px;
+    border-radius:100px;
+}
+.img-fm:hover {
+    width: 100px;
+    height: 100px;
+    background: url(img/fm.png) no-repeat center;
+    -moz-box-shadow: 2px 4px 4px rgb(88, 87, 87);
+    -webkit-box-shadow: 2px 4px 4px rgb(88, 87, 87);
+    box-shadow: 2px 4px 4px rgb(88, 87, 87);
+    -moz-border-radius:100px;
+    -webkit-border-radius:100px;
+    border-radius:100px;
+
+}
+
+/* forum */
+.img-forum {
+    width: 100px;
+    height: 100px;
+    border: solid 1px rgb(221, 77, 77);
+    background: url(img/forum.png) no-repeat center;
+    /* -moz-box-shadow: 3px 6px 5px rgb(139, 139, 139);
+    -webkit-box-shadow: 3px 6px 5px rgb(139, 139, 139);
+    box-shadow: 3px 6px 5px rgb(139, 139, 139); */
+    -moz-border-radius:100px;
+    -webkit-border-radius:100px;
+    border-radius:100px;
+}
+.img-forum:hover {
+    width: 100px;
+    height: 100px;
+    background: url(img/forum.png) no-repeat center;
+    -moz-box-shadow: 2px 4px 4px rgb(88, 87, 87);
+    -webkit-box-shadow: 2px 4px 4px rgb(88, 87, 87);
+    box-shadow: 2px 4px 4px rgb(88, 87, 87);
+    -moz-border-radius:100px;
+    -webkit-border-radius:100px;
+    border-radius:100px;
+
+}
+
+/* ticket */
+.img-ticket {
+    width: 100px;
+    height: 100px;
+    border: solid 1px rgb(221, 77, 77);
+    background: url(img/ticket.png) no-repeat center;
+    /* -moz-box-shadow: 3px 6px 5px rgb(139, 139, 139);
+    -webkit-box-shadow: 3px 6px 5px rgb(139, 139, 139);
+    box-shadow: 3px 6px 5px rgb(139, 139, 139); */
+    -moz-border-radius:100px;
+    -webkit-border-radius:100px;
+    border-radius:100px;
+}
+.img-ticket:hover {
+    width: 100px;
+    height: 100px;
+    background: url(img/ticket.png) no-repeat center;
+    -moz-box-shadow: 2px 4px 4px rgb(88, 87, 87);
+    -webkit-box-shadow: 2px 4px 4px rgb(88, 87, 87);
+    box-shadow: 2px 4px 4px rgb(88, 87, 87);
+    -moz-border-radius:100px;
+    -webkit-border-radius:100px;
+    border-radius:100px;
+
+}
+
+/* facebook */
+.img-facebook {
+    width: 100px;
+    height: 100px;
+    border: solid 1px rgb(221, 77, 77);
+    background: url(img/facebook.png) no-repeat center;
+    /* -moz-box-shadow: 3px 6px 5px rgb(139, 139, 139);
+    -webkit-box-shadow: 3px 6px 5px rgb(139, 139, 139);
+    box-shadow: 3px 6px 5px rgb(139, 139, 139); */
+    -moz-border-radius:100px;
+    -webkit-border-radius:100px;
+    border-radius:100px;
+}
+.img-facebook:hover {
+    width: 100px;
+    height: 100px;
+    background: url(img/facebook.png) no-repeat center;
+    -moz-box-shadow: 2px 4px 4px rgb(88, 87, 87);
+    -webkit-box-shadow: 2px 4px 4px rgb(88, 87, 87);
+    box-shadow: 2px 4px 4px rgb(88, 87, 87);
+    -moz-border-radius:100px;
+    -webkit-border-radius:100px;
+    border-radius:100px;
+
+}
+
+/* test */
+.img-test {
+    width: 100px;
+    height: 100px;
+    border: solid 1px rgb(221, 77, 77);
+    background: url(img/facebook.png) no-repeat center;
+    /* -moz-box-shadow: 3px 6px 5px rgb(139, 139, 139);
+    -webkit-box-shadow: 3px 6px 5px rgb(139, 139, 139);
+    box-shadow: 3px 6px 5px rgb(139, 139, 139); */
+    -moz-border-radius:100px;
+    -webkit-border-radius:100px;
+    border-radius:100px;
+}
+.img-test:hover {
+    width: 100px;
+    height: 100px;
+    background: url(img/facebook.png) no-repeat center;
+    -moz-box-shadow: 2px 4px 4px rgb(88, 87, 87);
+    -webkit-box-shadow: 2px 4px 4px rgb(88, 87, 87);
+    box-shadow: 2px 4px 4px rgb(88, 87, 87);
+    -moz-border-radius:100px;
+    -webkit-border-radius:100px;
+    border-radius:100px;
+}
